@@ -1,58 +1,72 @@
 # Data Analytics Portfolio
 
-This is my Data Analytics Portfolio. This repository includes real-life data analytics and business intelligence examples implemented in **Microsoft Excel, Power BI and Tableau**.
+Hello my Data Analytics Portfolio. This repository features some examples of applied data analysis and business intelligence solutions built with Microsoft Excel, SQL, Power BI and Tableau.
 
-Projects showcases my skills in the fields of Data Cleaning, Data Analysis, Data Visualization, Building Dashboard, and Reporting as I converted raw data into snippets of information.
+The projects confirm my knowledge and skills in collecting, cleaning, transforming, querying, analyzing, and visualizing data to create meaningful insights and evidence-based decision making.
 
-My interest is in analysing trends and tracking outcomes, assessing business activity and providing the evidence to support sound decision making.
+My areas of expertise include business intelligence, healthcare analytics, financial analysis, operational performance monitoring, and data visualization.
 
 ## Technical Skills
 
-Level | Skills and Tools |
+To systems involving a single object. | Skills and Tools | |
 |---|---|
-Data Analysis | Exploratory Data Analysis, Trend Analysis, KPI Analysis |
-Create and edit PivotTables in Microsoft Excel; Use Interactive Dangshboards – PowerQuery – Excel Formulas |
-MANAGED MS POWER BI PACKAGE; Model building; Calculated columns (DAX), Data shaping (Power query); Interactive reports. |
-A real-world example of how to use Tableau to create interactive dashboards, data visualizations, and analytical storytelling.
-When processing the data for the final report, it may be subject to data preparation, which involves data cleaning, data transformation, and data validation. |
-Data-Driven Insights, Business Intelligence, Performance Monitoring | Reporting |
+Data Interrogation | Mapping process, EDA, Trend analysis, KPI analysis |
+In this course, learners will build PivotTables, work with Power Query, write Excel formulas and develop interactive dashboards.
+You are interested in SQL: SQL Queries, Data Cleaning, Data Transformation, Data Analysis
+Fill in the model, create DAX, refine data using Power Query and create interactive reports in Power BI.
+Tableau is a business intelligence data visualization and interaction dashboarding platform that allows end users to analyze and visually present their data and insights.
+Reporting | Business Intelligence, Performance Monitoring, Data-Driven Insights |
 
 ## Portfolio Projects
 
 ### 1. Microsoft Excel Projects
 
-Showcases their ability to handle data analysis, operational reporting, monitoring of KPI's and dashboard development.
+Specialty: Data Analysis & Reporting, KPIs, Dashboard.
 
 Projects include:
 
-- COVID-19 Global Health Operations and Resource Prioritization Dashboard: Dashboard displays COVID-19 data analysis to explore health trends, compare country-level indicators, and inform COVID-19 resource prioritisation.
-- **COVID-19 Pro Dashboard:** An improved dashboard display, with extra analysis and visualization capabilities.
+COVID-19 Global Health Operations and Resource Prioritization Dashboard: Analysis on COVID data that examines health trends, compares country-level indicators and supports resource prioritization.
+- COVID-19 Pro Dashboard: A boosted watch dashboard presentation with improved analytical and visualization capabilities.
 
-Results from: Microsoft Excel, Microsoft PivotTables, Microsoft Power Query, Excel formulas, charts and dashboards.
+Tools and techniques: Microsoft Excel, PivotTables, Power Query, Excel Formulas, Charts and Dashboards.
 
 [Explore Excel Projects](./Excel-Projects/)
 
-### 2. Power BI Projects
+### 2. SQL Projects
 
-Following the road of Business intelligence, data modelling, interactive reporting and performance analysis.
-
-Projects include:
-
-Analysis of airline operations, flight cancellation, delays and airport performance.
-The private healthcare financial dashboard is a financial and operational analysis of private healthcare data outlining financial summary for the city as well as department level.
-NHS Continuing Healthcare Performance and Eligibility Analysis-Daily analysis of the percentage of referrals that convert, assessments that convert and changes in eligibility as well as analysis of The Organisation - England's performance.
-
-Read about and use Data Modelling, DAX, Interactive Visualizations, Microsoft Power BI and Power Query.
-
-Explore Power BI Projects(./Power-BI-Projects/)
-
-### 3. Tableau Projects
-
-concentrate on Interactive Data Visualization, Trend Analysis, Analytical Storytelling.
+Theme: Querying, preparing, cleaning, and transforming analytical data in a database.
 
 Projects include:
 
-Trends analysis of alcohol-related mortality shows the results 2001-2021, including geographical comparisons, gender differences and the main causes of alcohol-related mortality.
+NHS Continuing Healthcare (CHC) Analytics – Database organisation, preparation, cleaning, transformation and subsequent analysis of NHSCHC data, using SQL.
+- Cleaned Data for Power BI: Data sets that have been cleaned to be combined in Power BI dashboards and reports.
+Original data: Source datasets that are kept to ensure that the data preparation and data transformation has been done correctly.
+
+SEOUL, PostgreSQL, pgAdmin, Data Cleaning, Data Transformation.
+
+[Explore SQL Projects](./SQL/CHC%20Project/)
+
+### 3. Power BI Projects
+
+Focus: Business intelligence, data modelling, interactive reporting & performance analysis.
+
+Projects include:
+
+Airline Flight Delays Analysis: Analysis of airline operations, cancellations, delay and airport performance.
+Financial & operational data analysis of private healthcare providers data at UK level, city level and department level and summaries.
+NHS Continuing Healthcare Performance & Eligibility Analysis (referral conversion, assessment conversion, variation of eligibility, organisational performance analysis across England)
+
+Navigate the workbook, create new data views, and activate data quality rules from the Table Editor.Use the Table Editor to navigate the workbook, to create new data views, and to activate data quality rules.
+
+Explore Power BI Projects.Learn about Power BI Projects.
+
+### 4. Tableau Projects
+
+Focus: Interactivity in data visualization, Data Trend analysis, Data Storytelling.
+
+Projects include:
+
+Alcohol related death trends since 2001 with geographical comparison, gendered comparisons and top bereaning causes.
 
 Tools: Tableau, Data Visualization, Dashboard Design, Trend Analysis.
 
@@ -60,14 +74,14 @@ Tools: Tableau, Data Visualization, Dashboard Design, Trend Analysis.
 
 ## Project Development Approach
 
-Projects in this portfolio employ a process to analyze the project:
+Projects in the current portfolio use a structured workflow for analysis:
 
-1. Problem Identification: Set the business and/or statistical question.
-2. Gather data: Locate and obtain appropriate data.
-Data cleaning, validation and transformation - 3.
-Data Analysis: Investigate patterns, relationships, trends and performance indicators.
-5. Visualization: Create flash dashboard and visualization reports.
-Interpret Analysis and Communicate Actionable Conclusions - 6.
+Enter business / analytical question #1.
+2. Data Collection: Select and gather appropriate data sets.
+3. Data preparation: clean, validate and transform data.
+Analyse the data to identify patterns, relationships, trends and performance indicators.
+5. Visualization: Create dashboards, visual reports.
+6. Insights and recommendations: Interpret findings and report effective conclusions.
 
 ## Repository Structure
 
@@ -77,9 +91,15 @@ data-analytics-portfolio/
 ├── Excel-Projects/
 │   └── COVID-19 Dashboard Projects
 │
+├── SQL/
+│   └── CHC Project/
+│       ├── CHC_Analytics/
+│       ├── Cleaned data Ready for power Bi using SQL/
+│       └── Original Data/
+│
 ├── Power-BI-Projects/
-│   ├── Airline Flight Delays
-│   └── UK Healthcare
+│   ├── Airline Flight Delays/
+│   └── UK Healthcare/
 │
 ├── Tableau-Projects/
 │   └── Tableau/
@@ -93,6 +113,8 @@ data-analytics-portfolio/
 ## Tools and Technologies
 
 - Microsoft Excel
+- SQL and PostgreSQL
+- pgAdmin
 - Microsoft Power BI
 - Tableau
 - Power Query
@@ -103,14 +125,14 @@ data-analytics-portfolio/
 
 ## About This Portfolio
 
-This repository is constantly amended as projects are created. The goals of each project will be to showcase analytical skills, technical skills, and the ability to communicate in terms of clear and effective visuals.
+This repository is regularly updated with new projects as they are created. Each project will include an objective of showing how the participant(s) can apply their analytical skills, techniques, problem solving capabilities, and experience in communicating their results effectively and clearly through visual representations.
 
 ## Contact
 
-If you are interested in any professional topics or working together on data analytics or business intelligence projects please reach out to me via GitHub or LinkedIn.
+To arrangements for professional contacts, collaboration or data analytics / business intelligence projects, reach out via GitHub or LinkedIn.
 
 **GitHub:** [Cherry77-Tech](https://github.com/Cherry77-Tech)
 
 ---
 
-Turning data into information, turning information into decisions.
+Taking data to insights and insights to informed decisions.
