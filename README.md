@@ -8,14 +8,14 @@ My areas of expertise include business intelligence, healthcare analytics, finan
 
 ## Technical Skills
 
-To systems involving a single object. | Skills and Tools | |
+| Category | Skills and Tools |
 |---|---|
-Data Interrogation | Mapping process, EDA, Trend analysis, KPI analysis |
-In this course, learners will build PivotTables, work with Power Query, write Excel formulas and develop interactive dashboards.
-You are interested in SQL: SQL Queries, Data Cleaning, Data Transformation, Data Analysis
-Fill in the model, create DAX, refine data using Power Query and create interactive reports in Power BI.
-Tableau is a business intelligence data visualization and interaction dashboarding platform that allows end users to analyze and visually present their data and insights.
-Reporting | Business Intelligence, Performance Monitoring, Data-Driven Insights |
+| **Data Analysis** | Data Mapping, Exploratory Data Analysis (EDA), Trend Analysis, KPI Analysis |
+| **Microsoft Excel** | PivotTables, Power Query, Excel Formulas, Interactive Dashboard Development |
+| **SQL** | SQL Queries, Data Cleaning, Data Transformation, Data Analysis |
+| **Power BI** | Data Modelling, DAX Measures, Power Query, Interactive Report Development |
+| **Tableau** | Data Visualization, Interactive Dashboards, Analytical Storytelling |
+| **Reporting** | Business Intelligence, Performance Monitoring, Data-Driven Insights |
 
 ## Portfolio Projects
 
